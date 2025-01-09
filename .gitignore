@@ -9,6 +9,8 @@
 *.svg
 *.ico
 *.webp
+*.dll
+venv/
 
 # Ignore all audio files
 *.mp3
